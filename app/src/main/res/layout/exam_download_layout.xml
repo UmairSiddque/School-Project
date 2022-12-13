@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:layout_marginBottom="4dp"
+    android:orientation="horizontal">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/examDownloadTV"
+        android:fontFamily="@font/poppinregular"
+        android:textSize="14sp"
+        android:layout_marginLeft="5dp"
+        android:layout_alignParentLeft="true"
+        android:textColor="#3C94FC"/>
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/examDownloadIV"
+        android:src="@drawable/file_download_icon"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="5dp"
+        app:tint="#3884FB" />
+    </RelativeLayout>
+</LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#D9D3D3"
+        android:id="@+id/pendingDivider"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_alignParentBottom="true"
+        />
+</RelativeLayout>

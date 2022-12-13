@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Challenges.All_Challenges_Fragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:textSize="20sp"
+        android:padding="2dp"
+        android:id="@+id/challenges"
+        android:textStyle="bold"
+        android:text="All My Challenges"
+        android:textColor="@color/blue"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerAllChallenges"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="2dp"
+        android:padding="2dp" />
+    </LinearLayout>
+</RelativeLayout>

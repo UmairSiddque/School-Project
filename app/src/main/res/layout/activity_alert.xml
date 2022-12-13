@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AlertActivity">
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Alert"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="4dp"
+    android:layout_marginTop="4dp"
+    android:padding="4dp"
+        android:fontFamily="@font/poppinregular"
+    android:layout_marginBottom="-6dp"
+    android:textColor="@color/orange"
+    android:id="@+id/alertTV"
+    android:textSize="20sp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        android:layout_below="@id/alertTV"
+        android:id="@+id/rlAlert"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:padding="10dp"
+        android:background="@drawable/alert_main_bg">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="You have: "
+            android:textColor="#1F1F1F"
+            android:fontFamily="@font/poppinregular"
+            android:layout_marginBottom="5dp"
+            android:textSize="14sp"/>
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/alertRV"
+    />
+    </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:padding="5dp"
+        android:layout_below="@id/rlAlert"
+        android:id="@+id/linearAlert"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:src="@drawable/backarrow"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center"
+                android:fontFamily="@font/poppinmedium"
+                android:text="My Calender"
+                android:textColor="@color/completed_color"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="8dp"
+    android:layout_marginLeft="12dp"
+    android:layout_marginRight="12dp"
+    android:padding="8dp"
+    android:id="@+id/linearCalenderFilter"
+    android:layout_below="@id/linearAlert"
+    android:background="@drawable/leveltext2_bg"
+    android:gravity="center"
+    android:layout_centerInParent="true"
+    android:orientation="horizontal">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    <ImageView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerInParent="true"
+        android:id="@+id/backArrowCalenderIV"
+        android:src="@drawable/back_arrow_ios"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/calenderDateTV"
+        android:gravity="center"
+        android:fontFamily="@font/poppinmedium"
+        android:textColor="@color/black"
+        android:layout_centerInParent="true"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:id="@+id/forwardArrowCalenderIV"
+        android:src="@drawable/forward_arrow_ios"/>
+    </RelativeLayout>
+</LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@id/linearCalenderFilter"
+        android:id="@+id/calenderRV"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

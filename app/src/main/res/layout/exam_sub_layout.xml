@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_margin="1dp"
+    android:padding="3dp">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/examLinearSubjLayout"
+    android:orientation="horizontal">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:layout_centerVertical="true"
+        android:background="@drawable/exam_subj_img_bg"
+        android:layout_margin="4dp"
+        android:id="@+id/examSubjIV"
+        app:tint="#A652C0" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/examSubjName"
+        android:layout_centerVertical="true"
+        android:textColor="#4C4B4B"
+        android:fontFamily="@font/poppinmedium"
+        android:textSize="14sp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+android:layout_marginStart="35dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/examMonthlyMarks"
+       android:layout_alignStart="@id/examTerminalMarks"
+        android:layout_marginStart="-90dp"
+        android:textColor="#4C4B4B"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/poppinmedium"
+        android:textSize="14sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/examTerminalMarks"
+        android:text="0/30"
+        android:layout_alignParentRight="true"
+        android:textColor="#4C4B4B"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/poppinmedium"
+        android:textSize="14sp"
+       />
+
+    </RelativeLayout>
+
+</LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#D9D3D3"
+        android:id="@+id/pendingDivider"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_alignParentBottom="true"
+        />
+</RelativeLayout>

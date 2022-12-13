@@ -1,0 +1,2519 @@
+{
+    "status": true,
+    "data": {
+        "playing_games": [
+            {
+                "game_id": 115,
+                "game_title": "Vegetables & Fruits",
+                "game_desc": "General Knowledge Questions about Vegetables",
+                "created_at": "31 Jan",
+                "game_image": "uploadkahoot_games_images/veggies-1643632795.jpeg",
+                "subject_name": "G.Knowledge",
+                "game_levels": 6,
+                "rank": 0,
+                "completed_level": 3,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "9",
+                        "points": 1300,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "In Progress"
+            },
+            {
+                "game_id": 116,
+                "game_title": "Animals",
+                "game_desc": "The challenge includes the names of animals for FS1, FS2, and Grade 1.",
+                "created_at": "02 Feb",
+                "game_image": "uploadkahoot_games_images/animals-1643807111.png",
+                "subject_name": "G.Knowledge",
+                "game_levels": 6,
+                "rank": 0,
+                "completed_level": 6,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "Completed"
+            },
+            {
+                "game_id": 117,
+                "game_title": "Transportation and Vehicles",
+                "game_desc": "This challenge tests and helps with memorizing the knowledge about transportation and vehicles.",
+                "created_at": "03 Feb",
+                "game_image": "uploadkahoot_games_images/transportation-1643900193.jpeg",
+                "subject_name": "G.Knowledge",
+                "game_levels": 6,
+                "rank": 0,
+                "completed_level": 6,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "9",
+                        "points": 1300,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "Completed"
+            },
+            {
+                "game_id": 121,
+                "game_title": "Flags and Countries",
+                "game_desc": "This challenge assess students' knowledge about different countries' flags.",
+                "created_at": "09 Feb",
+                "game_image": "uploadkahoot_games_images/flags-feature-image-1644413961.jpeg",
+                "subject_name": "G.Knowledge",
+                "game_levels": 6,
+                "rank": 0,
+                "completed_level": 5,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "6",
+                        "points": 1000,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "In Progress"
+            }
+        ],
+        "recommended_games": [
+            {
+                "game_id": 113,
+                "game_title": "Monuments of Pakistan",
+                "game_desc": "Let's get to know about Pakistan and its Monuments.",
+                "created_at": "29 Jan",
+                "game_image": "uploadkahoot_games_images/pakistan-2115x1406-1643478767.jpeg",
+                "game_levels": 6,
+                "subject_name": "Culture of Pakistan",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 115,
+                "game_title": "Vegetables & Fruits",
+                "game_desc": "General Knowledge Questions about Vegetables",
+                "created_at": "31 Jan",
+                "game_image": "uploadkahoot_games_images/veggies-1643632795.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 3,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "9",
+                        "points": 1300,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "In Progress"
+            },
+            {
+                "game_id": 116,
+                "game_title": "Animals",
+                "game_desc": "The challenge includes the names of animals for FS1, FS2, and Grade 1.",
+                "created_at": "02 Feb",
+                "game_image": "uploadkahoot_games_images/animals-1643807111.png",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 6,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "Completed"
+            },
+            {
+                "game_id": 117,
+                "game_title": "Transportation and Vehicles",
+                "game_desc": "This challenge tests and helps with memorizing the knowledge about transportation and vehicles.",
+                "created_at": "03 Feb",
+                "game_image": "uploadkahoot_games_images/transportation-1643900193.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 6,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "9",
+                        "points": 1300,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "Completed"
+            },
+            {
+                "game_id": 121,
+                "game_title": "Flags and Countries",
+                "game_desc": "This challenge assess students' knowledge about different countries' flags.",
+                "created_at": "09 Feb",
+                "game_image": "uploadkahoot_games_images/flags-feature-image-1644413961.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 5,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "6",
+                        "points": 1000,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "In Progress"
+            }
+        ],
+        "all_games": [
+            {
+                "game_id": 24,
+                "game_title": "Languages",
+                "game_desc": "Languages",
+                "created_at": "07 Jan",
+                "game_image": "uploadkahoot_games_images/screenshot-3-1641567893.png",
+                "game_levels": 6,
+                "subject_name": "Mathematics",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 30,
+                "game_title": "Human Body",
+                "game_desc": "A quiz on different parts of the human body.",
+                "created_at": "10 Jan",
+                "game_image": "uploadkahoot_games_images/human-body-1641792079.jpeg",
+                "game_levels": 6,
+                "subject_name": "Science",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 39,
+                "game_title": "Football",
+                "game_desc": "Are you a True Football lover? Lets play and win.",
+                "created_at": "10 Jan",
+                "game_image": "uploadkahoot_games_images/euro-football-1080p-hd-wallpaper-1641804444.jpeg",
+                "game_levels": 6,
+                "subject_name": "Sports",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 40,
+                "game_title": "Cultural Places of Pakistan",
+                "game_desc": "Cultural and historical places of Pakistan.",
+                "created_at": "10 Jan",
+                "game_image": "uploadkahoot_games_images/mausoleum-of-shah-rukn-e-alam-pillar-of-the-world-multan-pakistan-1800x2700-oc-1641804893.jpeg",
+                "game_levels": 6,
+                "subject_name": "Culture of Pakistan",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 79,
+                "game_title": "Mobile Phone",
+                "game_desc": "mobile phone is....",
+                "created_at": "12 Jan",
+                "game_image": "uploadkahoot_games_images/smartphone-screen-background-quiz-time-speech-bubble-vector-illustration-smartphone-screen-background-quiz-time-speech-116039324-1642002908.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 81,
+                "game_title": "Iconic Structures Worldwide",
+                "game_desc": "Iconic Structures Worldwide",
+                "created_at": "13 Jan",
+                "game_image": "uploadkahoot_games_images/thumbnail-1642046432.jpeg",
+                "game_levels": 6,
+                "subject_name": "English",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 82,
+                "game_title": "Vehicles",
+                "game_desc": "Types of Vehicles",
+                "created_at": "13 Jan",
+                "game_image": "uploadkahoot_games_images/9db61aee0c528db49b8fd170d6f97cec-1642047929.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 83,
+                "game_title": "Aviation",
+                "game_desc": "Aviation",
+                "created_at": "13 Jan",
+                "game_image": "uploadkahoot_games_images/download-1642049946.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 84,
+                "game_title": "Let's Play With Vegetables",
+                "game_desc": "Learn some interesting facts about vegetables",
+                "created_at": "13 Jan",
+                "game_image": "uploadkahoot_games_images/illustration-collection-animated-fruits-vegetables-tomatoes-peppers-pumpkin-eggplant-carrot-banana-apple-characters-44490969-1642054075.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 93,
+                "game_title": "Computers and their History",
+                "game_desc": "Generation in computer terminology is a change in technology a computer is/was being used.",
+                "created_at": "16 Jan",
+                "game_image": "uploadkahoot_games_images/8e59a960-2708-4936-9881-3966beec312c-900-900-1642346232.png",
+                "game_levels": 6,
+                "subject_name": "Computer",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 94,
+                "game_title": "Solar System",
+                "game_desc": "Solar System and Universe's many factors like; Planet, Satellite, Asteroid, Black hole, Galaxy, Nebula, Solar-System, Star formation, Space and Space Missions.",
+                "created_at": "17 Jan",
+                "game_image": "uploadkahoot_games_images/pexels-pixabay-41951-1642388610.jpeg",
+                "game_levels": 6,
+                "subject_name": "Science",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 99,
+                "game_title": "Social Media Apps",
+                "game_desc": "Learn about social media apps",
+                "created_at": "17 Jan",
+                "game_image": "uploadkahoot_games_images/8-89412-social-media-logos-3d-1642405703.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 107,
+                "game_title": "T20 CRICKET!!!",
+                "game_desc": "Cricket questions only related to T20 covering all teams",
+                "created_at": "20 Jan",
+                "game_image": "uploadkahoot_games_images/t20-cricket-1642679897.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 108,
+                "game_title": "History and Places to visit in UAE",
+                "game_desc": "History and Places to visit in UAE",
+                "created_at": "21 Jan",
+                "game_image": "uploadkahoot_games_images/dubai-united-arab-emirates-burj-khalifa-top-1642741294.jpeg",
+                "game_levels": 6,
+                "subject_name": "Mathematics",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 112,
+                "game_title": "Monuments of the World",
+                "game_desc": "Test your knowledge on famous landmarks!",
+                "created_at": "29 Jan",
+                "game_image": "uploadkahoot_games_images/the-colosseum-rome-1643473051.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 113,
+                "game_title": "Monuments of Pakistan",
+                "game_desc": "Let's get to know about Pakistan and its Monuments.",
+                "created_at": "29 Jan",
+                "game_image": "uploadkahoot_games_images/pakistan-2115x1406-1643478767.jpeg",
+                "game_levels": 6,
+                "subject_name": "Culture of Pakistan",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 114,
+                "game_title": "History of Pakistan",
+                "game_desc": "Test your knowledge of Pakistan!",
+                "created_at": "30 Jan",
+                "game_image": "uploadkahoot_games_images/11-1643542561.jpeg",
+                "game_levels": 6,
+                "subject_name": "Culture of Pakistan",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 115,
+                "game_title": "Vegetables & Fruits",
+                "game_desc": "General Knowledge Questions about Vegetables",
+                "created_at": "31 Jan",
+                "game_image": "uploadkahoot_games_images/veggies-1643632795.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 3,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "9",
+                        "points": 1300,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "In Progress"
+            },
+            {
+                "game_id": 116,
+                "game_title": "Animals",
+                "game_desc": "The challenge includes the names of animals for FS1, FS2, and Grade 1.",
+                "created_at": "02 Feb",
+                "game_image": "uploadkahoot_games_images/animals-1643807111.png",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 6,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "Completed"
+            },
+            {
+                "game_id": 117,
+                "game_title": "Transportation and Vehicles",
+                "game_desc": "This challenge tests and helps with memorizing the knowledge about transportation and vehicles.",
+                "created_at": "03 Feb",
+                "game_image": "uploadkahoot_games_images/transportation-1643900193.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 6,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "9",
+                        "points": 1300,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "10",
+                        "points": 1600,
+                        "star": 2,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "Completed"
+            },
+            {
+                "game_id": 118,
+                "game_title": "Fun with Letters",
+                "game_desc": "Practice matching your capital letters!",
+                "created_at": "05 Feb",
+                "game_image": "uploadkahoot_games_images/alphabet-larger-1644054264.jpeg",
+                "game_levels": 6,
+                "subject_name": "English",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 119,
+                "game_title": "Colors and Shapes",
+                "game_desc": "The challenge assess the kids' knowledge about colors and shapes around us.",
+                "created_at": "07 Feb",
+                "game_image": "uploadkahoot_games_images/title-image-11zon-1644225613.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 120,
+                "game_title": "Names of Common Objects",
+                "game_desc": "This challenge assesses the kids' knowledge about names of common objects.",
+                "created_at": "08 Feb",
+                "game_image": "uploadkahoot_games_images/common-objects-1644333299.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 0,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": true,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "New"
+            },
+            {
+                "game_id": 121,
+                "game_title": "Flags and Countries",
+                "game_desc": "This challenge assess students' knowledge about different countries' flags.",
+                "created_at": "09 Feb",
+                "game_image": "uploadkahoot_games_images/flags-feature-image-1644413961.jpeg",
+                "game_levels": 6,
+                "subject_name": "G.Knowledge",
+                "rank": 0,
+                "completed_level": 5,
+                "border_hex": "#fff000",
+                "level": [
+                    {
+                        "level_no": 1,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 2,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 3,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 4,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "12",
+                        "points": 2500,
+                        "star": 3,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 5,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": 1,
+                        "total_true_answers": "6",
+                        "points": 1000,
+                        "star": 1,
+                        "has_locked": false
+                    },
+                    {
+                        "level_no": 6,
+                        "level_lives": 3,
+                        "level_time": 300000,
+                        "has_level_passed": null,
+                        "total_true_answers": null,
+                        "points": 0,
+                        "star": 0,
+                        "has_locked": false,
+                        "is_premium": false
+                    }
+                ],
+                "completed_status": "In Progress"
+            }
+        ]
+    }
+}

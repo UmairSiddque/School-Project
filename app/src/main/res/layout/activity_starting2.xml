@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartingActivity2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linear1"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:background="@color/completed_color">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:src="@drawable/menu"
+            android:layout_centerVertical="true"
+            android:id="@+id/menuIV"
+            app:tint="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ahmad Shabbir"
+            android:textSize="17sp"
+            android:layout_marginStart="5dp"
+            android:id="@+id/text1"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@id/menuIV"
+            android:fontFamily="@font/poppinmedium"
+            android:textColor="#FFFFFF"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/notification_icon"
+            app:tint="#FFFFFF"
+            android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/linear1"
+        android:layout_marginBottom="?attr/actionBarSize"
+        android:id="@+id/frameLayout"
+        />
+<com.google.android.material.bottomnavigation.BottomNavigationView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/bottomNavView"
+    app:menu="@menu/nav_items"/>
+</RelativeLayout>

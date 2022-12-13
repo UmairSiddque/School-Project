@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E5E5E5"
+    tools:context=".assignSkillActivities.AssignSkillActivity">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:padding="5dp"
+    android:id="@+id/linearAssign1">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/backarrow"
+        android:id="@+id/assignBackArrowIV"
+        app:tint="#213061" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="#213061"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppinmedium"
+        android:text="Assign Skill"/>
+    </RelativeLayout>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linearAssign1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:padding="5dp"
+        android:id="@+id/linearAssign2"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#3884FB"
+            android:textSize="15sp"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/poppinsemibold"
+            android:text="Counting and number-pattern across"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:textColor="#4B4D5F"
+            android:fontFamily="@font/poppinmedium"
+            android:text="skill id: 2567"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:textColor="#4B4D5F"
+            android:fontFamily="@font/poppinmedium"
+            android:text="Topic: counting review"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:textColor="#4B4D5F"
+            android:fontFamily="@font/poppinmedium"
+            android:text="30 Questions"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#9B9B9B"
+        android:layout_below="@id/linearAssign2"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/view"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearAssign3"
+        android:layout_below="@id/view">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#4B4D5F"
+            android:textSize="14sp"
+            android:layout_marginEnd="15dp"
+            android:fontFamily="@font/poppinmedium"
+            android:text="Assign To:"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/assignClassBtn"
+            android:text="Class"
+            android:textColor="#444444"
+            android:textSize="12sp"
+            android:fontFamily="@font/poppinregular"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/assignStudentBtn"
+            android:text="Student"
+            android:textColor="#444444"
+            android:textSize="12sp"
+            android:fontFamily="@font/poppinregular"/>
+
+    </LinearLayout>
+
+        <androidx.fragment.app.FragmentContainerView
+            android:id="@+id/fragmentContainerView"
+            android:name="com.example.school_project.assignSkillFragments.ClassFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:padding="5dp"
+            android:layout_below="@id/linearAssign3"/>
+
+</RelativeLayout>
